@@ -1,10 +1,8 @@
-# PyFlask_section_5
-Udemy PyFlask: Project 3
+# PyFlask_section_6
+Udemy PyFlask: Project 4
 
-Running in venv, to start: 
-1. python create_tables.py
-2. python app.py
+Running in venv, to start: python app.py
 
-Using sqlite3 for db.
+Using SQLite3 and SQLAlchemy for db.
 
-This is an extension from section_4
+This is an extension from section_5
